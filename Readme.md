@@ -1,6 +1,8 @@
 # The node.js backend application
 API for managing a products in database
 
+![View swagger](view.png)
+
 ## get started
 1. Clone this repository
 2. Install dependency 
